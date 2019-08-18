@@ -18,3 +18,7 @@ Using RabbitMq if need:
 - flexible routing
 - Priority Queue
 - A standard protocol message queue
+
+# Reference
+
+https://itnext.io/kafka-vs-rabbitmq-f5abc02e3912
