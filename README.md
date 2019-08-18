@@ -19,6 +19,11 @@ Using RabbitMq if need:
 - Priority Queue
 - A standard protocol message queue
 
+
+<p align="center">
+<img src="https://www.rabbitmq.com/img/tutorials/intro/hello-world-example-routing.png"/>
+</p>
+
 # Reference
 
 https://itnext.io/kafka-vs-rabbitmq-f5abc02e3912
